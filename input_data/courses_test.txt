@@ -1,0 +1,12 @@
+CSE560
+Artificial Intelligence
+An introduction to machine learning, neural imitation networks, and weak artificial intelligence.
+12312312312312312
+4.0
+
+CSE600
+Machine Learning
+Overview and development of machine learning algorithms.
+67867867867867867
+3.0
+
